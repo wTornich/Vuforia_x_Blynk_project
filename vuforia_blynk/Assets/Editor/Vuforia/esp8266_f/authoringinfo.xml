@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="10.19.3">
+<ModelTarget name="esp8266_f" targetId="da020d41c7d44eac9dbf802ffa98ba53" version="14.0" toolVersion="10.19.3" bbox="-0.040709 -0.007466 -0.021444 0.042450 0.003776 0.021454" previewImage="da020d41c7d44eac9dbf802ffa98ba53_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="esp8266_fs_assembly" assemblyId="de26713557dd4a82b58d310c55bc0fc8">
+<Part name="esp8266_f" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-0.0479162 -0.000549478 0.484775" rotation="AD: 0.806001 -0.696445 1.79095 197.108" image="esp8266_f_GuideView_0000.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="-0.122502 -0.00957398 0.41306" rotation="AD: 0.956731 -0.453441 0.967515 215.929" image="esp8266_f_GuideView_0001.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

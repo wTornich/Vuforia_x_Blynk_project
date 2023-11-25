@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="esp8266_f" motionHint="adaptive" trackingMode="scan" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="esp8266_fs_assembly" assemblyId="de26713557dd4a82b58d310c55bc0fc8">
+<Part name="esp8266_f" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-0.0479162 -0.000549478 0.484775" rotation="AD: 0.806001 -0.696445 1.79095 197.108" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="-0.122502 -0.00957398 0.41306" rotation="AD: 0.956731 -0.453441 0.967515 215.929" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
